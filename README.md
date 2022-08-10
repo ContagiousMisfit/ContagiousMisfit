@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there 👋🏻
+Thank you for visiting my Github profile. I hope you enjoy checking some of my projects.
 
-<!--
-**ContagiousMisfit/ContagiousMisfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you have any questions, suggestions or just want to grab a virtual coffee to chat, feel free to reach me via LinkedIn. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/ContagiousMisfit">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ContagiousMisfit&count_private=true&theme=nightowl&show_icons=true" />
+</a>
+<a href="https://github.com/ContagiousMisfit">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContagiousMisfit&theme=nightowl&layout=compact&hide=cmake,c%2B%2B,c" />
+</a>
+</p>

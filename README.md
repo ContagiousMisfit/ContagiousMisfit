@@ -1,8 +1,5 @@
 # Hello, there! <img src="https://user-images.githubusercontent.com/52979585/183960580-2639ce3d-726b-4f4a-b241-106fbdca5dad.gif" width="30px" height="30px" />
 
-<div>
-<img align="left" src="https://user-images.githubusercontent.com/52979585/184049860-d69cd687-6ccf-4e44-b690-db6a7755ca71.gif" width="55%" height=55%">
-
 Thank you for visiting my Github profile. 
 I hope you enjoy checking out some of my projects.
 
@@ -10,12 +7,8 @@ My name is <b> Isabela. </b> I'm from Brazil 🇧🇷, but my dreams are borderl
 
 If you have any questions, suggestions or just want to grab a virtual coffee to chat, feel free to reach me via LinkedIn. 
 
-</div> 
-<br>
-<br>
-<br> 
-<br>
-<br> 
+<img src="https://user-images.githubusercontent.com/52979585/184049860-d69cd687-6ccf-4e44-b690-db6a7755ca71.gif">
+
 
 
 ## ⚛️ About me

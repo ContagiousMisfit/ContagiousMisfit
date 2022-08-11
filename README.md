@@ -1,20 +1,24 @@
 # Hello, there! <img src="https://user-images.githubusercontent.com/52979585/183960580-2639ce3d-726b-4f4a-b241-106fbdca5dad.gif" width="30px" height="30px" />
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/52979585/183962285-167f218f-9b3c-410b-a270-e127274246f9.jpeg" width="55%" height="55%">
+<img align="left" src="https://user-images.githubusercontent.com/52979585/184049860-d69cd687-6ccf-4e44-b690-db6a7755ca71.gif" width="65%" height="65%">
 
-Thank you for visiting my Github profile. 
+<p styles="padding:30px">
+&nbsp; Thank you for visiting my Github profile. 
 I hope you enjoy checking out some of my projects.
 
-My name is <b> Isabela. </b> I'm from Brazil 🇧🇷, but my dreams are borderless.
+&nbsp; My name is <b> Isabela. </b> I'm from Brazil 🇧🇷, but my dreams are borderless.
 
-If you have any questions, suggestions or just want to grab a virtual coffee to chat, feel free to reach me via LinkedIn. 
-<br>
+&nbsp; If you have any questions, suggestions or just want to grab a virtual coffee to chat, feel free to reach me via LinkedIn. 
+
+&nbsp; "Honesty in small things is not a small thing.
+We are honest about the state of our code because code is never perfect. We become more fully human, more worthy of the divine, and closer
+to that greatness in the details." (Clean Code, Robert C. Martin)
+</p>
+
 </div> 
 
-<br>
-<br>
-<br>
+
 
 ## ⚛️ About me
 ```json

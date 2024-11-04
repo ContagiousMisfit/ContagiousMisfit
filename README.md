@@ -2,6 +2,7 @@
 
 Thank you for visiting my Github profile. 
 I hope you enjoy checking out some of my projects.
+I am a software developer currently pursuing my first postgraduate degree in Java Software Development and architecture.
 
 My name is <b> Isabela. </b> I'm from Brazil 🇧🇷, but my dreams are borderless.
 
@@ -17,6 +18,7 @@ If you have any questions, suggestions or just want to grab a virtual coffee to 
   "Isabela": {
     "title": "Java Backend Developer",
     "description": "Technology Enthusiast",
+    "currentRole": "Software Engineer at Clickbus",
     "previousExperiences": {
       "developer": {
         "enterprise": "CI&T Software",

@@ -2,7 +2,7 @@
 
 Thank you for visiting my Github profile. 
 I hope you enjoy checking out some of my projects.
-I am a software developer currently pursuing my first postgraduate degree in Java Software Development and architecture.
+I am a software developer with a postgraduate degree in Java Software Development and architecture. My current goal is to complete a masters in Data Structures and Algorithms.
 
 My name is <b> Isabela. </b> I'm from Brazil 🇧🇷, but my dreams are borderless.
 
